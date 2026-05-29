@@ -1,0 +1,9 @@
+[package]
+name = "wave-conservation"
+version = "0.1.0"
+edition = "2021"
+description = "Spectral wave propagation: wave speed = √λ₂, CR predicts coherence, standing waves reveal eigenvalue spectrum. Pure Rust."
+license = "MIT"
+repository = "https://github.com/SuperInstance/wave-conservation"
+keywords = ["graph", "wave", "spectral", "laplacian", "eigenvalue"]
+categories = ["mathematics", "science"]
