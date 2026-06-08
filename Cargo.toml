@@ -1,0 +1,11 @@
+[package]
+name = "wave-conservation"
+version = "0.1.0"
+edition = "2021"
+description = "Spectral wave propagation on graphs — wave speed = √λ₂, detect bottlenecks"
+license = "MIT"
+repository = "https://github.com/SuperInstance/wave-conservation"
+keywords = ["wave", "graph", "spectral", "conservation", "bottleneck"]
+
+[dependencies]
+serde = { version = "1", features = ["derive"] }
